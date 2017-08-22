@@ -1,0 +1,17 @@
+{
+  "name": "@aryehof/js-fibonacci",
+  "description": "Compare fibonacci implementation performance in pure JavaScript",
+  "version": "1.0.0",
+  "author": "Aryeh Hoffman <npm@aryeh.sent.com>",
+  "license": "MIT",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "benchmark": "^2.1.4"
+  },
+  "scripts": {
+    "test": "node test",
+    "benchmark": "node benchmark"
+  }
+}
